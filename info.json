@@ -1,0 +1,26 @@
+"bin": {
+    "resume-me": "./index.js"
+},
+
+{
+    "name": "Imani Lockworth",
+    "website": "https://github.com/ilockworth",
+    "linkedin": "",
+    "github": "ilockworth",
+    "email": "ilockworth25@gmail.com",
+    "resume": "https://github.com/ilockworth",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        
+        
+    ],
+    "otherSkills": [
+        "Communication",
+        "Collaboration",
+        "Organization"
+    ]
+}
